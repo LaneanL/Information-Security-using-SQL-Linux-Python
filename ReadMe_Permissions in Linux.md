@@ -1,4 +1,4 @@
-# File permissions in Linux
+# File and Directotory Permissions in Linux
 
 ## Project description:
 The research team at my organization needs to update the file permissions for certain
