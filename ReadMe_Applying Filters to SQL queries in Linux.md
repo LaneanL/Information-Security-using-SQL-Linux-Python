@@ -8,9 +8,8 @@ There was a potential security incident that occurred after business hours (18:0
 .  
 .  
 .  
-.  
 
-### Example from file: Apply filter to SQL queries:
+### Example from file: Apply filters to SQL queries:
 Retrieve after hours failed login attempts
 There was a potential security incident that occurred after business hours (18:00). All after
 hours login attempts that failed needed to be investigated.
