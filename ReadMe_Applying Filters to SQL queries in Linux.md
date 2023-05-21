@@ -6,15 +6,14 @@ There was a potential security incident that occurred after business hours (18:0
 .  
 .  
 .  
-.  
 
 ### Example from file: Apply filters to SQL queries:
 Retrieve after hours failed login attempts
 There was a potential security incident that occurred after business hours (18:00). All after
 hours login attempts that failed needed to be investigated.
 
-SELECT * 
-FROM log_in_attempts 
+SELECT *  
+FROM log_in_attempts  
 WHERE login_time > ‘18:00’ AND success = False;
 
 ![image](https://github.com/LaneanL/CyberSecurity/assets/132226337/a5483295-9013-4ac0-a1c6-d498caae77f0)
